@@ -1,0 +1,17 @@
+.item {
+  width: 110px;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+.label {
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+.percentage {
+  display: block;
+  text-align: center;
+}
