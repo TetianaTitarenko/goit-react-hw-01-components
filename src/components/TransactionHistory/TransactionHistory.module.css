@@ -29,5 +29,5 @@ tr:nth-child(odd) {
   background-color: #eee;
 }
 tbody:nth-child(2n) {
-  background-color: #696969;
+  background-color: #dad8f1;
 }
