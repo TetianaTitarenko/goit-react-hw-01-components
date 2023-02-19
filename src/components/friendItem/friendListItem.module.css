@@ -1,0 +1,33 @@
+.item {
+  width: 550px;
+  display: flex;
+  gap: 20px;
+  /* justify-content: center; */
+  align-items: center;
+  margin: auto;
+  padding-left: 20px;
+  list-style-type: none;
+  background-color: aliceblue;
+  border-radius: 8px;
+  box-shadow: 1px 2px 4px rgba(0.5, 0.5, 0.5, 0.5);
+}
+.status {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: green;
+}
+.avatar {
+  width: 100px;
+}
+.name {
+  font-weight: bold;
+}
+
+.false {
+  background-color: red;
+}
+
+.true {
+  background-color: rgb(0, 255, 42);
+}
