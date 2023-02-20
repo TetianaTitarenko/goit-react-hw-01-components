@@ -1,5 +1,5 @@
 th {
-  text-align: left;
+  text-align: center;
   color: #fff;
   background-color: #706d97;
 }
@@ -30,4 +30,7 @@ tr:nth-child(odd) {
 }
 tbody:nth-child(2n) {
   background-color: #dad8f1;
+}
+table {
+  margin: auto;
 }
